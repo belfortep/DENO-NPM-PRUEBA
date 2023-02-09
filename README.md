@@ -1,3 +1,3 @@
 # DENO-NPM-PRUEBA
 
-Aplicscion con Deno utilizando los paquetes de npm
+Aplicación con Deno utilizando los paquetes de npm
